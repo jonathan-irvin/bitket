@@ -28,11 +28,11 @@ class Type_model extends CI_Model {
 		   'name' => $newname
         );
 
-		$this->db->update('bk_types', $data)->where('type_id', $id); 
+		$this->db->update('bk_types', $data, array('type_id' => $id)); 
 	}
 	
 	function deleteType($id)
 	{
-		$this->db->delete('bk_types', array('id' => $id))
+		$this->db->delete('bk_types', array('type_id' => $id))
 	}
 }
