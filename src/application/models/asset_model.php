@@ -36,7 +36,7 @@ class Asset_model extends CI_Model {
 		$this->db->update('bk_assets', $data)->where('asset_id', $asset_id); 
 	}	
 	
-	function deleteasset($asset_id)
+	function deleteAsset($asset_id)
 	{
 		$this->db->delete('bk_assets', array('asset_id' => $asset_id))
 	}
