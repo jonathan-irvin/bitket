@@ -1,0 +1,20 @@
+//How to use the model structure
+
+// Insert values into table.
+$sample = $this->SampleModel->insert(array('column_name'=>'value_1', 'column_name_2'=>'value_2));
+
+// Modify inserted value.
+$sample->column_name = 'new_value;
+$sample->save();
+
+// Find one record matching a specific criteria. Returns one object.
+$sample = $this->SampleModel->find(array('column_name'=>'value_1'));
+
+// Delete a record.
+$sample->delete();
+
+// Find all records matching a specific criteria. Returns array of objects.
+$sample = $this->SampleModel->findAll(array('column_name'=>'value_1'));
+
+// Count all records matching a specific criteria. Returns an integer.
+$count = $this->SampleModel->findCount(array('column_name'=>'value_1'));
