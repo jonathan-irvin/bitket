@@ -1,7 +1,3 @@
-class Ticket_model extends CI_Model {
-
-    function __construct()
-    {
-        parent::__construct();
-    }
+class Ticket_model extends MY_Model {
+    protected $_table = 'bk_tickets';
 }

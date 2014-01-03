@@ -1,7 +1,3 @@
-class Event_model extends CI_Model {
-
-    function __construct()
-    {
-        parent::__construct();
-    }
+class Events_model extends MY_Model {
+    protected $_table = 'bk_events';
 }
