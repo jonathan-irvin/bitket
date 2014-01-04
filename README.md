@@ -15,3 +15,6 @@ Jonathan Irvin (@jonathan-irvin)
 ### Support or Contact
 Having trouble?  Feel free to tell me your issue here: `https://github.com/jonathan-irvin/bitket/issues` 
 You can also email me at djfoxyslpr@gmail.com, but it's best to post it as an issue first.
+
+### Donations
+Bitcoin 1Byg5jJe6V7mSL3ku23TkTtbTVupDJ5ybe
