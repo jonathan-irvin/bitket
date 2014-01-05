@@ -18,3 +18,6 @@ $sample = $this->SampleModel->findAll(array('column_name'=>'value_1'));
 
 // Count all records matching a specific criteria. Returns an integer.
 $count = $this->SampleModel->findCount(array('column_name'=>'value_1'));
+
+//Credit goes to @zackflower
+//https://gist.github.com/zachflower/5528072
