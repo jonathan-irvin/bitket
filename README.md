@@ -10,7 +10,10 @@ Bitket is aimed at streamlining the operations of local computer repair shops by
 Bitket is so alpha it isn't even funny.  When I have built more structure into Bitket, I will let you know how to install it.
 
 ### Authors and Contributors
-Jonathan Irvin (@jonathan-irvin)
+<ul>
+  <li>Jonathan Irvin (@jonathan-irvin)</li>
+  <li>Amanda Diston (@sybildavis)</li>
+</ul>
 
 ### Support or Contact
 Having trouble?  Feel free to tell me your issue here: `https://github.com/jonathan-irvin/bitket/issues` 
