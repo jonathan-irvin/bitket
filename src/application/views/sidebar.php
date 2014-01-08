@@ -25,7 +25,7 @@
 					<!-- END RESPONSIVE QUICK SEARCH FORM -->
 				</li>
 				<li class="start active ">
-					<a href="index.html">
+					<a href="#">
 					<i class="fa fa-home"></i>
 					<span class="title">
 						Dashboard
@@ -35,19 +35,66 @@
 					</a>
 				</li>
 				<li class="">
-					<a href="index_horizontal_menu.html">
+					<a href="#">
 					<i class="fa fa-briefcase"></i>
 					<span class="title">
 						My Tickets
 					</span>
 					</a>
 				</li>
-				
+				<li class="">
+					<a href="#">
+					<i class="fa fa-inbox"></i>
+					<span class="title">
+						Queue
+					</span>
+					</a>
+				</li>
+				<li class="">
+					<a href="#">
+					<i class="fa fa-user"></i>
+					<span class="title">
+						Customers
+					</span>
+					</a>
+				</li>
+				<li class="">
+					<a href="javascript:;">
+					<i class="fa fa-plus"></i>
+					<span class="title">
+						Quick Add
+					</span>
+					<span class="arrow ">
+					</span>
+					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="#">
+							New Ticket</a>
+						</li>
+						<li>
+							<a href="#">
+							New Customer</a>
+						</li>
+						<li>
+							<a href="#">
+							New Computer</a>
+						</li>											
+					</ul>
+				</li>				
 				<li class="last ">
-					<a href="charts.html">
+					<a href="#">
 					<i class="fa fa-bar-chart-o"></i>
 					<span class="title">
 						Statistics
+					</span>
+					</a>
+				</li>
+				<li class="">
+					<a href="#">
+					<i class="fa fa-cog"></i>
+					<span class="title">
+						Settings
 					</span>
 					</a>
 				</li>
