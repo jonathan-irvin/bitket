@@ -11,6 +11,7 @@ Bitket is so alpha it isn't even funny.  When I have built more structure into B
 
 ### Authors and Contributors
 Jonathan Irvin (@jonathan-irvin)
+Amanda Diston (@sybildavis)
 
 ### Support or Contact
 Having trouble?  Feel free to tell me your issue here: `https://github.com/jonathan-irvin/bitket/issues` 
