@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Add_customer extends CI_Controller {
+class Add extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -18,6 +18,11 @@ class Add_customer extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index()
+	{		
+		print "<script type=\"text/javascript\">alert('Must use something after add');</script>";		
+	}
+	
+	public function customer()
 	{
 		$this->load->view('header');
 		$this->load->view('sidebar');
