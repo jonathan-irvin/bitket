@@ -77,6 +77,12 @@
 										</div>
 								</div>
 								<div class="form-group">
+									<label class="col-md-3 control-label">Address 2</label>
+										<div class="col-md-4">
+											<input type="text" class="form-control" placeholder="Apt/Ste/Bld">				
+										</div>
+								</div>
+								<div class="form-group">
 									<label class="col-md-3 control-label">City</label>
 										<div class="col-md-4">
 											<input type="text" class="form-control" placeholder="City">				
